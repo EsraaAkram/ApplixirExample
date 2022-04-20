@@ -1,5 +1,8 @@
 # ApplixirExample:
-Technical content writing about How to Integrate AppLixir Ads to your Android App:
+This is an Example on how to add Applixir Ads in your app
+The project contains java and kotin Examples:
+
+# Technical content writing about How to Integrate AppLixir Ads to your Android App:
 -I helped Writing AppLixir Android Documentations about, How do you use AppLixir sdk to add Video Ads in to your android App or Game.
 
 -Started by testing the previous documentation and edit the code Examples for implementing ads to any Android App, and How to make it less steps, clearer and faster to any android Developer to add ads.
@@ -14,15 +17,13 @@ Also by adding the call back interface to this class and that's a step I did to 
 
 -The Last Step, was adding explanations to every step to make it clear for any android Dev to Get Started with AppLixir  Video Ads .
 
--Article on Applixir:   (Android Sdk Documentations)
-https://support.applixir.com/hc/en-us/sections/360009795313-Android-App-Integration
+# -Article on Applixir:   (Android Sdk Documentations)
+# https://support.applixir.com/hc/en-us/sections/360009795313-Android-App-Integration
 
-<!-- This is an Example on how to add Applixir Ads in your app
-The project contains java and kotin Examples -->
 
 The Project and Documentation for it. are an UpWork Job to ask for a similar project 
-Contact me:
-https://www.upwork.com/freelancers/~01b430fcce04364da7
+# Contact me:
+# https://www.upwork.com/freelancers/~01b430fcce04364da7
 <!-- 
 Article on Applixir:
 https://support.applixir.com/hc/en-us/articles/5418083969687-Introduction- --> 
