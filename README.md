@@ -14,7 +14,7 @@ Also by adding the call back interface to this class and that's a step I did to 
 
 -The Last Step, was adding explanations to every step to make it clear for any android Dev to Get Started with AppLixir  Video Ads .
 
--AppLixir   Android Sdk Documentations:
+-Article on Applixir:   (Android Sdk Documentations)
 https://support.applixir.com/hc/en-us/sections/360009795313-Android-App-Integration
 
 <!-- This is an Example on how to add Applixir Ads in your app
@@ -23,6 +23,6 @@ The project contains java and kotin Examples -->
 The Project and Documentation for it. are an UpWork Job to ask for a similar project 
 Contact me:
 https://www.upwork.com/freelancers/~01b430fcce04364da7
-
+<!-- 
 Article on Applixir:
-https://support.applixir.com/hc/en-us/articles/5418083969687-Introduction-
+https://support.applixir.com/hc/en-us/articles/5418083969687-Introduction- -->
