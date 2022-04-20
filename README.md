@@ -25,4 +25,4 @@ Contact me:
 https://www.upwork.com/freelancers/~01b430fcce04364da7
 <!-- 
 Article on Applixir:
-https://support.applixir.com/hc/en-us/articles/5418083969687-Introduction- -->
+https://support.applixir.com/hc/en-us/articles/5418083969687-Introduction- --> 
