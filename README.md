@@ -13,7 +13,7 @@ Also by adding the call back interface to this class and that's a step I did to 
 
 2-create a way of communication between the each android activity and the webview (that AppLixir use to show ads in the app) and how to get user impression for the ad (watch or close the ad in this example) and then move the user to the next activity depend on that impression.
 
--After Enhancing the previous Sdk Code, which was written in Java only, I also added the same Examples in Kotlin, so any Kotlin Android Developer can also add AppLixir Ads to his App or Game.
+-After Enhancing the previous Sdk Code, which was written in Java only, I also added the same Code Examples in Kotlin, so any Kotlin Android Developer can also add AppLixir Ads to his App or Game.
 
 -The Last Step, was adding explanations to every step to make it clear for any android Dev to Get Started with AppLixir  Video Ads .
 
@@ -24,6 +24,7 @@ Also by adding the call back interface to this class and that's a step I did to 
 The Project and Documentation for it. are an UpWork Job to ask for a similar project 
 # Contact me:
 # https://www.upwork.com/freelancers/~01b430fcce04364da7
+
 <!-- 
 Article on Applixir:
 https://support.applixir.com/hc/en-us/articles/5418083969687-Introduction- --> 
