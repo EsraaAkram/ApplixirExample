@@ -1,6 +1,6 @@
-# Applixir Ads Integration Example:
-This is an Example on how to add Applixir Ads in your app
-The project contains java and kotin Examples:
+# Applixir Ads Integration: # applixir android studio example:
+This is an Example on how to add Applixir android Ads in your android app
+The project contains java and kotin Examples on how to implement Rewarded Video Ads on native Android Apps - AppLixir:
 
 # Technical content writing about How to Integrate AppLixir Ads to your Android App:
 -I helped Writing AppLixir Android Documentations about, How do you use AppLixir sdk to add Video Ads in to your android App or Game.
